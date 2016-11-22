@@ -1,0 +1,12 @@
+body { padding-top: 70px; 
+background-color: #484848;}
+
+#chicken p, #beef p, #sushi p {
+padding: 0 20px;
+color: #fff; 
+}
+
+#chicken h1, #beef h1, #sushi h1 {
+
+color: #ffbf00;
+}
